@@ -1,0 +1,35 @@
+D:\C Shap\DEMO\PARTEN PROJECT\PARTEN PROJECT\bin\Debug\PARTEN PROJECT.exe.config
+D:\C Shap\DEMO\PARTEN PROJECT\PARTEN PROJECT\bin\Debug\PARTEN PROJECT.exe
+D:\C Shap\DEMO\PARTEN PROJECT\PARTEN PROJECT\bin\Debug\PARTEN PROJECT.pdb
+D:\C Shap\DEMO\PARTEN PROJECT\PARTEN PROJECT\bin\Debug\S7.Net.dll
+D:\C Shap\DEMO\PARTEN PROJECT\PARTEN PROJECT\bin\Debug\S7.Net.pdb
+D:\C Shap\DEMO\PARTEN PROJECT\PARTEN PROJECT\obj\Debug\PARTEN_PROJECT.Form1.resources
+D:\C Shap\DEMO\PARTEN PROJECT\PARTEN PROJECT\obj\Debug\PARTEN_PROJECT.Properties.Resources.resources
+D:\C Shap\DEMO\PARTEN PROJECT\PARTEN PROJECT\obj\Debug\PARTEN PROJECT.csproj.GenerateResource.Cache
+D:\C Shap\DEMO\PARTEN PROJECT\PARTEN PROJECT\obj\Debug\PARTEN PROJECT.exe
+D:\C Shap\DEMO\PARTEN PROJECT\PARTEN PROJECT\obj\Debug\PARTEN PROJECT.pdb
+D:\C Shap\DEMO\PARTEN PROJECT\PARTEN PROJECT\obj\Debug\PARTEN PROJECT.csprojResolveAssemblyReference.cache
+D:\Langgues\C Shap\DEMO\PARTEN PROJECT\PARTEN PROJECT\bin\Debug\PARTEN PROJECT.exe.config
+D:\Langgues\C Shap\DEMO\PARTEN PROJECT\PARTEN PROJECT\bin\Debug\PARTEN PROJECT.exe
+D:\Langgues\C Shap\DEMO\PARTEN PROJECT\PARTEN PROJECT\bin\Debug\PARTEN PROJECT.pdb
+D:\Langgues\C Shap\DEMO\PARTEN PROJECT\PARTEN PROJECT\bin\Debug\S7.Net.dll
+D:\Langgues\C Shap\DEMO\PARTEN PROJECT\PARTEN PROJECT\bin\Debug\S7.Net.pdb
+D:\Langgues\C Shap\DEMO\PARTEN PROJECT\PARTEN PROJECT\obj\Debug\PARTEN PROJECT.csprojResolveAssemblyReference.cache
+D:\Langgues\C Shap\DEMO\PARTEN PROJECT\PARTEN PROJECT\obj\Debug\PARTEN_PROJECT.Form1.resources
+D:\Langgues\C Shap\DEMO\PARTEN PROJECT\PARTEN PROJECT\obj\Debug\PARTEN_PROJECT.Properties.Resources.resources
+D:\Langgues\C Shap\DEMO\PARTEN PROJECT\PARTEN PROJECT\obj\Debug\PARTEN PROJECT.csproj.GenerateResource.Cache
+D:\Langgues\C Shap\DEMO\PARTEN PROJECT\PARTEN PROJECT\obj\Debug\PARTEN PROJECT.exe
+D:\Langgues\C Shap\DEMO\PARTEN PROJECT\PARTEN PROJECT\obj\Debug\PARTEN PROJECT.pdb
+D:\Github\S7ToConnect\PARTEN PROJECT\bin\Debug\PARTEN PROJECT.exe.config
+D:\Github\S7ToConnect\PARTEN PROJECT\bin\Debug\PARTEN PROJECT.exe
+D:\Github\S7ToConnect\PARTEN PROJECT\bin\Debug\PARTEN PROJECT.pdb
+D:\Github\S7ToConnect\PARTEN PROJECT\bin\Debug\S7.Net.dll
+D:\Github\S7ToConnect\PARTEN PROJECT\bin\Debug\S7.Net.pdb
+D:\Github\S7ToConnect\PARTEN PROJECT\obj\Debug\PARTEN PROJECT.csprojAssemblyReference.cache
+D:\Github\S7ToConnect\PARTEN PROJECT\obj\Debug\PARTEN_PROJECT.Form1.resources
+D:\Github\S7ToConnect\PARTEN PROJECT\obj\Debug\PARTEN_PROJECT.Properties.Resources.resources
+D:\Github\S7ToConnect\PARTEN PROJECT\obj\Debug\PARTEN PROJECT.csproj.GenerateResource.cache
+D:\Github\S7ToConnect\PARTEN PROJECT\obj\Debug\PARTEN PROJECT.csproj.CoreCompileInputs.cache
+D:\Github\S7ToConnect\PARTEN PROJECT\obj\Debug\PARTEN PROJECT.csproj.CopyComplete
+D:\Github\S7ToConnect\PARTEN PROJECT\obj\Debug\PARTEN PROJECT.exe
+D:\Github\S7ToConnect\PARTEN PROJECT\obj\Debug\PARTEN PROJECT.pdb
