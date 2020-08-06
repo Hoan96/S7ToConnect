@@ -12,6 +12,7 @@ namespace PARTEN_PROJECT
 {
     public partial class Form1 : Form
     {
+		// test code
         private  PLC plc = null;
         private ExceptionCode errorState = ExceptionCode.ExceptionNo;
         public Form1()
