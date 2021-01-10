@@ -29,7 +29,7 @@ namespace PARTEN_PROJECT
         {
 
         }
-
+        // Create
         private void btnconnect_Click(object sender, EventArgs e)
         {
             try
