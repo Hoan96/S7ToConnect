@@ -12,6 +12,7 @@ namespace PARTEN_PROJECT
         /// The main entry point for the application.
         /// </summary>
         [STAThread]
+        //neeeeeeeeeeeeeeee
         static void Main()
         {
             Application.EnableVisualStyles();
